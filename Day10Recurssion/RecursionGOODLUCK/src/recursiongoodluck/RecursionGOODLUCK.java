@@ -34,7 +34,6 @@ public class RecursionGOODLUCK {
         System.out.println(Summation(4));
         System.out.println(Factorial(2));
         System.out.println(exponentiation(5, 6));
-
     }
     
 }
